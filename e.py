@@ -1,1 +1,0 @@
-print("ARINEITWE DAVIS")
